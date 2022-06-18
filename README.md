@@ -11,7 +11,7 @@ K Means CLustering - IRIS - Single Neighbour ( neighbours = 1 )
 ![](https://github.com/basilsv/K-Means-Clustering---IRIS/blob/main/output_13_1.png)  
 
 
-K Means CLustering - IRIS - Three Neighbour ( neighbours = 2 )   
+K Means CLustering - IRIS - Three Neighbour ( neighbours = 3 )   
 :-------------------------:|
 ![](https://github.com/basilsv/K-Means-Clustering---IRIS/blob/main/output_15_0.png)  
 
